@@ -1,4 +1,4 @@
-package com.example;
+package com.example.tiposdatos;
 
 /**
  * Tipos más comunes de datos:

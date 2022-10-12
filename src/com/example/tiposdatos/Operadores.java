@@ -1,4 +1,4 @@
-package com.example;
+package com.example.tiposdatos;
 
 public class Operadores {
     public static void main(String[] args) {
@@ -18,7 +18,9 @@ public class Operadores {
         < menor
         >= mayor que
         <= menor que
+        = asignar valor
         == igual que
+        === EN JAVA NO EXISTE, solo en javascript (compara tipo de dato)
          */
 
         boolean resultado1 = numero1 > numero2; // false

@@ -1,4 +1,4 @@
-package com.example;
+package com.example.funciones;
 
 /**
  * Soobrecarga permite duplicar un método siempre y cuando tengan diferente tipo/número de parámetros.
